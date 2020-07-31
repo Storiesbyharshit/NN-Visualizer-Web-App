@@ -2,5 +2,5 @@
 Neural Network Visualizer Web App using Flask and Streamlit
 <p align="center">
   <a href="https://github.com/Storiesbyharshit/NN-Visualizer-Web-App">
-    <img src="Output/Capture.JPG" alt="master-login" width="900" height="600">
+    <img src="Output/Capture.JPG" alt="master-login" width="800" height="550">
   </a>
